@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\luuk\workspace\PROG3_PR6a_uitwerking_II_basis"/>
+		<item value="C:\Users\luuk\Desktop\prog1\week6\prog1_week6a_bodyBuilding"/>
+		<item value="C:\Users\luuk\Desktop\prog1\prog1_week5a_refrigerator"/>
+		<item value="C:\Users\luuk\Desktop\prog1\week5\HW_lapTimer"/>
+		<item value="C:\Users\luuk\Desktop\prog1\uitwerking\week4\wk4b"/>
+		<item value="C:\Users\luuk\Desktop\prog1\uitwerking\week4\wk4a\prog1_week4a_phone_laptop_teacher"/>
+		<item value="C:\Users\luuk\Desktop\prog1\wk 2 basis\PROG1_PR2a_START"/>
+	</list>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="289" key="DIALOG_X_ORIGIN"/>
+		<item value="323" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
